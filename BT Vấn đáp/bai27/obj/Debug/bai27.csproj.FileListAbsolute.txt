@@ -1,0 +1,11 @@
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\bin\Debug\bai27.exe.config
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\bin\Debug\bai27.exe
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\bin\Debug\bai27.pdb
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.csproj.AssemblyReference.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.Ngaysinh.resources
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.Properties.Resources.resources
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.csproj.GenerateResource.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.csproj.CoreCompileInputs.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.exe
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\bai27\obj\Debug\bai27.pdb
