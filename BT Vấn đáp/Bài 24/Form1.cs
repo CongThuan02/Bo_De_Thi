@@ -36,5 +36,13 @@ namespace Bài_24
                 }
             }
         }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            DialogResult h = MessageBox.Show
+                ("Bạn có chắc muốn thoát không?", "Thông báo", MessageBoxButtons.OKCancel);
+            if (h == DialogResult.OK)
+                Application.Exit();
+        }
     }
 }

@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rMauChu = new System.Windows.Forms.RadioButton();
             this.rMauNen = new System.Windows.Forms.RadioButton();
+            this.rMauChu = new System.Windows.Forms.RadioButton();
             this.btnChonMau = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -53,17 +53,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Chọn màu chữ hoặc màu nền";
             // 
-            // rMauChu
-            // 
-            this.rMauChu.AutoSize = true;
-            this.rMauChu.Location = new System.Drawing.Point(20, 39);
-            this.rMauChu.Name = "rMauChu";
-            this.rMauChu.Size = new System.Drawing.Size(88, 24);
-            this.rMauChu.TabIndex = 0;
-            this.rMauChu.TabStop = true;
-            this.rMauChu.Text = "Màu chữ";
-            this.rMauChu.UseVisualStyleBackColor = true;
-            // 
             // rMauNen
             // 
             this.rMauNen.AutoSize = true;
@@ -74,6 +63,17 @@
             this.rMauNen.TabStop = true;
             this.rMauNen.Text = "Màu nền";
             this.rMauNen.UseVisualStyleBackColor = true;
+            // 
+            // rMauChu
+            // 
+            this.rMauChu.AutoSize = true;
+            this.rMauChu.Location = new System.Drawing.Point(20, 39);
+            this.rMauChu.Name = "rMauChu";
+            this.rMauChu.Size = new System.Drawing.Size(88, 24);
+            this.rMauChu.TabIndex = 0;
+            this.rMauChu.TabStop = true;
+            this.rMauChu.Text = "Màu chữ";
+            this.rMauChu.UseVisualStyleBackColor = true;
             // 
             // btnChonMau
             // 
@@ -93,6 +93,7 @@
             this.btnThoat.TabIndex = 1;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // panel2
             // 
