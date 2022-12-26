@@ -9,3 +9,14 @@ E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.GenerateResource.cache
 E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.CoreCompileInputs.cache
 E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.exe
 E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.pdb
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\bin\Debug\Bài 25.exe.config
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\bin\Debug\Bài 25.exe
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\bin\Debug\Bài 25.pdb
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.AssemblyReference.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.SuggestedBindingRedirects.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài_25.Form1.resources
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài_25.Properties.Resources.resources
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.GenerateResource.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.CoreCompileInputs.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.exe
+G:\Bo_De_Thi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.pdb

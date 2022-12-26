@@ -1,0 +1,11 @@
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\bin\Debug\Bài 24.exe.config
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\bin\Debug\Bài 24.exe
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\bin\Debug\Bài 24.pdb
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài 24.csproj.AssemblyReference.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài 24.csproj.SuggestedBindingRedirects.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài_24.Form1.resources
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài_24.Properties.Resources.resources
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài 24.csproj.GenerateResource.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài 24.csproj.CoreCompileInputs.cache
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài 24.exe
+G:\Bo_De_Thi\BT Vấn đáp\Bài 24\obj\Debug\Bài 24.pdb
