@@ -1,0 +1,22 @@
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.AssemblyReference.cache
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.SuggestedBindingRedirects.cache
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.Form1.resources
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.Properties.Resources.resources
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.GenerateResource.cache
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.CoreCompileInputs.cache
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\bin\Debug\WindowsFormsAppBongChayTrenform.exe.config
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\bin\Debug\WindowsFormsAppBongChayTrenform.exe
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\bin\Debug\WindowsFormsAppBongChayTrenform.pdb
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.exe
+D:\Documents\.NET1\Thực Hành\WindowsFormsAppBongChayTrenform\obj\Debug\WindowsFormsAppBongChayTrenform.pdb
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\bin\Debug\WindowsFormsAppBongChayTrenform.exe.config
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\bin\Debug\WindowsFormsAppBongChayTrenform.exe
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\bin\Debug\WindowsFormsAppBongChayTrenform.pdb
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.AssemblyReference.cache
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.SuggestedBindingRedirects.cache
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.Form1.resources
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.Properties.Resources.resources
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.GenerateResource.cache
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.csproj.CoreCompileInputs.cache
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.exe
+G:\Bo_De_Thi\BT Vấn đáp\bài 9\obj\Debug\WindowsFormsAppBongChayTrenform.pdb
