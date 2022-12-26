@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\bin\Debug\Bai2 29.10.exe.config
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\bin\Debug\Bai2 29.10.exe
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\bin\Debug\Bai2 29.10.pdb
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2 29.10.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2 29.10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2_29._10.Form1.resources
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2_29._10.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2 29.10.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2 29.10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2 29.10.exe
+C:\Users\Admin\source\repos\Bai2 29.10\Bai2 29.10\obj\Debug\Bai2 29.10.pdb
