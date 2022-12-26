@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\bin\Debug\Bài 18.exe.config
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\bin\Debug\Bài 18.exe
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\bin\Debug\Bài 18.pdb
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài 18.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài_18.Form1.resources
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài_18.Properties.Resources.resources
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài 18.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài 18.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài 18.exe
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 18\obj\Debug\Bài 18.pdb

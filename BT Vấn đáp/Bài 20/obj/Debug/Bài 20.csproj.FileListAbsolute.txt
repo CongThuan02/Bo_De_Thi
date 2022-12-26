@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\bin\Debug\Bài 20.exe.config
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\bin\Debug\Bài 20.exe
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\bin\Debug\Bài 20.pdb
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài 20.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài_20.Form1.resources
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài_20.Properties.Resources.resources
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài 20.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài 20.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài 20.exe
+C:\Users\admin\source\repos\M VS\BT Vấn đáp\Bài 20\obj\Debug\Bài 20.pdb
