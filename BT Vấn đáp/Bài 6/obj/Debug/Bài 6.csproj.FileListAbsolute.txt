@@ -1,0 +1,11 @@
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\bin\Debug\Bài 6.exe.config
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\bin\Debug\Bài 6.exe
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\bin\Debug\Bài 6.pdb
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài 6.csproj.AssemblyReference.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài_6.Form1.resources
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài_6.Properties.Resources.resources
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài 6.csproj.GenerateResource.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài 6.csproj.CoreCompileInputs.cache
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài 6.exe
+C:\Users\thuyd\source\repos\Bo_De_Thi\BT Vấn đáp\Bài 6\obj\Debug\Bài 6.pdb
