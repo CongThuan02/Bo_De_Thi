@@ -1,0 +1,11 @@
+E:\baithi\BT Vấn đáp\Bài 25\bin\Debug\Bài 25.exe.config
+E:\baithi\BT Vấn đáp\Bài 25\bin\Debug\Bài 25.exe
+E:\baithi\BT Vấn đáp\Bài 25\bin\Debug\Bài 25.pdb
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.AssemblyReference.cache
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.SuggestedBindingRedirects.cache
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài_25.Form1.resources
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài_25.Properties.Resources.resources
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.GenerateResource.cache
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.csproj.CoreCompileInputs.cache
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.exe
+E:\baithi\BT Vấn đáp\Bài 25\obj\Debug\Bài 25.pdb
